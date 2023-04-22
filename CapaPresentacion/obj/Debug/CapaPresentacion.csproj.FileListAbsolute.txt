@@ -1,0 +1,14 @@
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.frmInicio.resources
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Cursos\Beca\Curso C#\EjerciciosC#\ProyectoPOS\Proyecto POS\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
